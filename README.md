@@ -23,6 +23,22 @@ The most common GUI used by the team is
 To use Github Desktop, you will need to 
 [download](https://desktop.github.com/download/) and install Github Desktop.
 
+Git is organized into repositories and these repositories will be hosted in a
+central location. Team Neutrino uses a 
+[GitHub Organization](https://github.com/team-neutrino)
+to host these repositories. 
+For team members to interact with the Team Neutrino repositories,
+they need to be a member of the Team Neutrino GitHub Organization. 
+To be added, 
+
+1. Create a [github.com](https://github.com/) account
+1. Post the following in the #general slack channel:
+
+    @Moriah Zimmerman please add my to the Team Neutrino GitHub Organization. My user name is <username>
+    
+where you replace `<username>` with your github.com username. 
+
+
 
 ### Integrated Development Environment (IDE)
 
