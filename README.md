@@ -48,3 +48,7 @@ The most commonly used IDE on the team is
 [Visual Studio Code](https://code.visualstudio.com/).
 To use Visual Studio Code, you need to 
 [download](https://code.visualstudio.com/Download) and install VS Code.
+
+
+### Controls
+[Get Started with Controls](Controls.md)
